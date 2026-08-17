@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thinkpad-emerging-assigned-innovative.trycloudflare.com/vnc.html
+URL       : https://continent-permalink-caution-bet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 15:35:04
+Created   : 2026-08-17 20:37:47
 =======================================================
