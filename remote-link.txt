@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dns-refuse-vocabulary-log.trycloudflare.com/vnc.html
+URL       : https://citations-marijuana-modelling-portable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 10:39:36
+Created   : 2026-08-18 15:42:04
 =======================================================
