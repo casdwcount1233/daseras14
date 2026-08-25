@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://oliver-remained-rising-css.trycloudflare.com/vnc.html
+URL       : https://lite-feof-boc-solving.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 05:40:51
+Created   : 2026-08-25 10:43:02
 =======================================================
