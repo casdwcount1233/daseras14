@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lite-feof-boc-solving.trycloudflare.com/vnc.html
+URL       : https://designation-republican-earthquake-lucas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 10:43:02
+Created   : 2026-08-25 15:55:06
 =======================================================
