@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dir-sure-homework-determining.trycloudflare.com/vnc.html
+URL       : https://kansas-meal-rob-sunny.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 00:01:35
+Created   : 2026-08-29 07:01:08
 =======================================================
