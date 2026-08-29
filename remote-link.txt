@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contacted-why-void-smallest.trycloudflare.com/vnc.html
+URL       : https://dir-sure-homework-determining.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-28 11:10:36
+Created   : 2026-08-29 00:01:35
 =======================================================
